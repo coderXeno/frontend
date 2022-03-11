@@ -1,3 +1,6 @@
+Full Stack Todo App with React frontend, Django backend and Postgresql database.
+Backend code here:- https://github.com/coderXeno/backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
